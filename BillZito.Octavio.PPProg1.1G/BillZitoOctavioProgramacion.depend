@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621291202 source:c:\users\octav\desktop\progra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
